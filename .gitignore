@@ -1,0 +1,16 @@
+/Debug/
+/Release/
+/build/
+/logs/
+/save/
+*/*/snaps/
+*/*/snaps_A/
+*/*/snaps_B/
+*.pdf
+*.caffemodel
+*.prefs
+.project
+.cproject
+*.pyc
+*.*~
+!.gitignore
